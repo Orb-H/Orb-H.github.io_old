@@ -1,19 +1,19 @@
 ko:
   - section: 서브 페이지 목록
     text: |
-      - 이력서([한국어](/resume/ko/) / [영어](/resume/en/))
-      - 프로젝트([한국어](/projects/ko/) / [영어](/projects/en/))(WIP)
-      - [블로그](/blog)(한국어)(WIP)
-      - [네모네모 로직 풀이 프로그램](/nonogram-solver)(디자인 구데기)
-      - [PS 풀이 모음](/nojam)
+      - 이력서([한국어](https://resume.orbithv.dev/ko/) / [영어](https://resume.orbithv.dev/en/))(사이트 이전 중)
+      - 프로젝트([한국어](https://projects.orbithv.dev/ko/) / [영어](https://projects.orbithv.dev/en/))(사이트 이전 중)(WIP)
+      - [블로그](https://blog.orbithv.dev/)(한국어)
+      - [PS 풀이 모음](https://ps.orbithv.dev/nojam)(사이트 이전 중)
 
   - section: 서브 페이지 설명
     text: |
+      무언가를 기록하는 것이 서툴고 오래 걸려서 컨텐츠를 잘 업데이트하지는 않습니다.
+
       #### 이력서
 
       - 한 장 짜리 resume 형식의 이력서를 정리합니다.
       - 사실 제출할 때에는 디자인 없는 원본을 내겠지만 그래도 일단 정리하는게 좋을 것 같아서 만든 페이지입니다.
-      - CV 형식은 대학원 갈 때에나 필요하다고 해서 만들지 않을 예정입니다.
 
       #### 프로젝트
 
@@ -27,12 +27,6 @@ ko:
       - 사실 글로 흔적을 잘 남기지 않는 편이라서 포스트가 생길지는 미지수입니다.
       - 오히려 IT 쪽이 아닌 다른 주제의 포스트가 올라갈 수도 있습니다.
 
-      #### 네모네모 로직 풀이 프로그램
-
-      - 네모네모 로직을 풀어주는 웹 페이지입니다.
-      - 처음부터 웹에다 올릴 생각이라 JS로 개발을 시작했는데 암걸려 죽겠군요.
-      - 지킬에 올리니까 디자인이 이상해져서 다른 사이트로 옮길 예정입니다.
-
       #### PS 풀이 모음
 
       - 여러 PS 사이트에서 푼 문제의 리스트를 정리합니다.
@@ -43,21 +37,22 @@ ko:
       - [깃허브](https://github.com/Orb-H)
       - [트위터](https://twitter.com/orb_h_)
       - [스팀](https://steamcommunity.com/id/Orb_H)
-      - [유튜브](https://www.youtube.com/channel/UC0unrsegI_KYXmDV13xLRYA)(거의 안함)
-      - [트위치](https://twitch.tv/orb_h)(거의 안함)
-      - [백준](https://www.acmicpc.net/user/orb_h)(거의 안함)
+      - [유튜브](https://www.youtube.com/channel/UC0unrsegI_KYXmDV13xLRYA)(거의 안 씀)
+      - [트위치](https://twitch.tv/orb_h)(거의 안 씀)
+      - [백준](https://www.acmicpc.net/user/orb_h)(거의 안 씀)
 
 en:
   - section: List of Subpages
     text: |
-      - Resume([English](/resume/en/) / [Korean](/resume/ko/))
-      - Projects([English](/projects/en/) / [Korean](/projects/ko/))(WIP)
-      - [Blog](/blog)(Korean)(WIP)
-      - [Nonogram Solver](/nonogram-solver)(Not Designed)
-      - [PS Storage](/nojam)
+      - Resume([English](https://resume.orbithv.dev/en/) / [Korean](https://resume.orbithv.dev/ko/))(currently moving site)
+      - Projects([English](https://projects.orbithv.dev/en/) / [Korean](https://projects.orbithv.dev/ko/))(currently moving site)(WIP)
+      - [Blog](https://blog.orbithv.dev/)(Korean)
+      - [PS Storage](https://ps.orbithv.dev/nojam/)(currently moving site)
 
   - section: Description of Subpages
     text: |
+      Since I'm not good at recording something and it takes a long time to do so, contents are not updated frequently.
+
       #### Resume
 
       - A single-page resume.
@@ -73,12 +68,7 @@ en:
 
       - Literally a blog.
       - I don't know if I would post since I am not used to log as an article.
-      - There could be some posts not related to IT, but related to other topics like math or science.
-
-      #### Nonogram Solver
-
-      - A page which solves nonogram puzzles.
-      - Website location will be changed due to design issue.
+      - There could be some posts not related to CSE, but related to other topics like math or science.
 
       #### PS Storage
 
