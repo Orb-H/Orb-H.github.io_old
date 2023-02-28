@@ -1,10 +1,10 @@
 ko:
   - section: 서브 페이지 목록
     text: |
-      - 이력서([한국어](https://resume.orbithv.dev/ko/) / [영어](https://resume.orbithv.dev/en/))(사이트 이전 중)
-      - 프로젝트([한국어](https://projects.orbithv.dev/ko/) / [영어](https://projects.orbithv.dev/en/))(사이트 이전 중)(WIP)
+      - 이력서([한국어](https://resume.orbithv.dev/ko/) / [영어](https://resume.orbithv.dev/en/))
+      - 프로젝트([한국어](https://projects.orbithv.dev/ko/) / [영어](https://projects.orbithv.dev/en/))(WIP)
       - [블로그](https://blog.orbithv.dev/)(한국어)
-      - [PS 풀이 모음](https://ps.orbithv.dev/nojam)(사이트 이전 중)
+      - [PS 풀이 모음](https://ps.orbithv.dev/nojam)
 
   - section: 서브 페이지 설명
     text: |
@@ -44,10 +44,10 @@ ko:
 en:
   - section: List of Subpages
     text: |
-      - Resume([English](https://resume.orbithv.dev/en/) / [Korean](https://resume.orbithv.dev/ko/))(currently moving site)
-      - Projects([English](https://projects.orbithv.dev/en/) / [Korean](https://projects.orbithv.dev/ko/))(currently moving site)(WIP)
+      - Resume([English](https://resume.orbithv.dev/en/) / [Korean](https://resume.orbithv.dev/ko/))
+      - Projects([English](https://projects.orbithv.dev/en/) / [Korean](https://projects.orbithv.dev/ko/))(WIP)
       - [Blog](https://blog.orbithv.dev/)(Korean)
-      - [PS Storage](https://ps.orbithv.dev/nojam/)(currently moving site)
+      - [PS Storage](https://ps.orbithv.dev/nojam/)
 
   - section: Description of Subpages
     text: |
